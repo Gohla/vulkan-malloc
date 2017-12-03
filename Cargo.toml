@@ -15,7 +15,6 @@ keywords = ["vulkan", "memory", "allocator", "malloc", "gpu"]
 [dependencies]
 dacite = "^0.7"
 array_ext = "^0.2"
-option-filter = "1.0"
 
 [package.metadata.release]
 pre-release-commit-message = "Release {{version}} 🎉🎉"

@@ -7,8 +7,6 @@ use SyncKey;
 use dacite::core::{DeviceMemory, MappedMemoryRange};
 use dacite::VulkanObject;
 
-use option_filter::OptionFilterExt;
-
 type SuballocationList = List<Suballocation>;
 type SuballocationListItem = ListItem<Suballocation>;
 
