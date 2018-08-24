@@ -11,8 +11,6 @@
 //!
 //! `Allocator` itself is thread-safe - it is both `Send` and `Sync`.
 
-#![feature(option_filter)]
-
 extern crate dacite;
 extern crate array_ext;
 
