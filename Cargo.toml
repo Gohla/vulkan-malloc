@@ -13,8 +13,8 @@ license = "MIT / Apache-2.0"
 keywords = ["vulkan", "memory", "allocator", "malloc", "gpu"]
 
 [dependencies]
-dacite = "^0.7"
-array_ext = "^0.2"
+dacite = "0.7"
+array_ext = "0.2"
 
 [package.metadata.release]
 pre-release-commit-message = "Release {{version}} 🎉🎉"
